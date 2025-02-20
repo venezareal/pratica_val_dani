@@ -1,12 +1,13 @@
 body {
-    background-color: black; 
+    background-color: blue; 
     color: white; 
     
    
 }
 
 header {
-    background-color: #ff00b1; 
+    background-color: #ff00b1;
+    color: red;
    
 }
 
